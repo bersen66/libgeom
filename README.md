@@ -7,8 +7,7 @@ include(FetchContent)
 
 FetchContent_Declare(
         geom
-        GIT_REPOSITORY https://github.com/bersen66/libgeom.git
-        GIT_TAG  master
+        URL https://github.com/bersen66/libgeom/releases/download/learning/geom.zip
 )
 
 FetchContent_MakeAvailable(geom)
