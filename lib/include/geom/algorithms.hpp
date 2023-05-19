@@ -1,6 +1,5 @@
 #pragma once
 
-#include <geom/impl/triangulation.hpp>
 #include <geom/polygon.hpp>
 #include <geom/reorderable_view.hpp>
 #include <geom/vector.hpp>

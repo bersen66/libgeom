@@ -1,5 +1,7 @@
 #pragma once
 
+#include <tuple>
+
 namespace geom {
 
 template <typename T>
