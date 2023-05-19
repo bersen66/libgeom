@@ -1,5 +1,5 @@
 # libgeom
-
+Just learning how to integrate libraries with  FetchContent CMake infrastructure
 ## INSTALLATION
 
 ```cmake
